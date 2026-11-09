@@ -1,113 +1,186 @@
-<!-- Profile README for github.com/saeid-adz -->
+<!-- Profile README for github.com/saeid-adz. Artwork: scripts/generate_profile_assets.py -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:7B2FF7&height=200&section=header&text=Saeid%20Dahl&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Azure%20%26%20AI%20Geek%20%7C%20Microsoft%20MVP%20%7C%20MCT%20Leader&descAlignY=60&descSize=20" alt="Saeid Dahl banner" width="100%"/>
-
-<a href="https://github.com/saeid-adz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0078D4&center=true&vCenter=true&width=700&lines=Turning+cloud+chaos+into+clean%2C+automated+magic;Head+of+Public+Cloud+%26+AI+%40+Upheads;Microsoft+MVP+%7C+MCT+Leader;Speaker+%7C+Community+builder+%7C+Sweden+%F0%9F%87%B8%F0%9F%87%AA" alt="Typing animation" />
+<a href="https://saeiddahl.com">
+  <img src="assets/profile/mission-control.gif" alt="Saeid Dahl — Azure and AI geek, Microsoft MVP and MCT Leader. Cloud chaos. Automated magic. An animated cloud with orbiting signals." width="100%" />
 </a>
 
-<br/>
+### I build cloud foundations. Automate the chaos. Bring people along.
 
-[![Website](https://img.shields.io/badge/saeiddahl.com-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saeiddahl.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeiddahl/)
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-7B2FF7?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com)
-[![Microsoft MCT Leader](https://img.shields.io/badge/Microsoft-MCT_Leader-00A4EF?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/become-trainer)
-![Profile views](https://komarev.com/ghpvc/?username=saeid-adz&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS)
+**Head of Public Cloud & AI at [Upheads](https://upheads.se) · Microsoft MVP · MCT Leader · Sweden 🇸🇪**
+
+[![Website](https://img.shields.io/badge/ENTER_MY_WORLD-67E8F9?style=for-the-badge&logo=googlechrome&logoColor=080E1C)](https://saeiddahl.com)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-B393FF?style=for-the-badge&logo=linkedin&logoColor=080E1C)](https://www.linkedin.com/in/saeiddahl/)
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-EDF5FF?style=for-the-badge&logo=github&logoColor=080E1C)](https://github.com/saeid-adz?tab=repositories)
+
+<sub>[About](#-the-human-behind-the-terminal) &nbsp; / &nbsp; [Cloud lab](#-inside-my-cloud-lab) &nbsp; / &nbsp; [On stage](#-from-the-terminal-to-the-stage) &nbsp; / &nbsp; [Toolkit](#-the-toolkit) &nbsp; / &nbsp; [Connect](#-lets-build-something-worth-sharing)</sub>
+
+</div>
+
+---
+
+## 👋 The human behind the terminal
+
+Hey, I'm **Saeid** — an Azure & AI geek who enjoys turning complicated cloud problems into things people can actually use.
+
+My world sits somewhere between **cloud architecture, automation, AI, and a room full of people asking great questions**. At Upheads, I lead Public Cloud & AI. In the community, I'm a speaker, trainer, mentor, and enthusiastic sharer of whatever I've just figured out.
+
+I like solid foundations, useful experiments, and that moment when a manual process becomes a single command.
+
+> **My operating principle:** Automate everything, then automate the automation. ✨
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Builder mode
+
+Secure, scalable cloud platforms. Landing zones that make sense. Infrastructure as Code. Guardrails that help teams move forward.
+
+**Less clicking. More shipping.**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Community mode
+
+Talks, workshops, teaching, and mentoring. Sharing the practical lessons, the experiments, and the things I'd do differently next time.
+
+**Learn it. Build it. Share it. Repeat.**
+
+</td>
+</tr>
+</table>
+
+## 🚀 Inside my cloud lab
+
+<img src="assets/profile/automation-loop.gif" alt="Animated terminal illustration: design the foundation, automate the boring parts, make AI useful, and share what you learn. A creative demo of my approach, not a live deployment." width="100%" />
+
+<sub>A little animated illustration of how I approach the work. [Prefer still graphics?](assets/profile/automation-loop-still.png)</sub>
+
+### The problems I like getting into
+
+| Area | What I'm here to do |
+| :--- | :--- |
+| ☁️ **Azure architecture & landing zones** | Build foundations that can grow without becoming a maze. |
+| ⚙️ **Automation & Infrastructure as Code** | Turn repeatable work into code with Bicep, Terraform, and PowerShell. |
+| 🤖 **AI, agents & copilots** | Explore how AI can solve real problems beyond a compelling demo. |
+| 🔐 **Security, identity & governance** | Make sensible guardrails part of the platform from the beginning. |
+| 🔄 **DevOps & delivery** | Bring infrastructure and delivery workflows closer together. |
+| 🎓 **Teaching & mentoring** | Make cloud and AI more approachable, one useful explanation at a time. |
+
+<div align="center">
+
+**Curious about what I'm building?**
+
+[Browse my repositories →](https://github.com/saeid-adz?tab=repositories) &nbsp; · &nbsp; [Visit saeiddahl.com →](https://saeiddahl.com)
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Saeid
+## 🎤 From the terminal to the stage
 
-I'm an **Azure & AI geek** based in **Sweden 🇸🇪**, working as **Head of Public Cloud & AI at [Upheads](https://upheads.se)**.
-I'm a **Microsoft MVP** and **Microsoft Certified Trainer (MCT) Leader** who loves turning *cloud chaos into clean, automated magic*.
+I love the point where a technical idea becomes a conversation. You'll find me sharing practical cloud and AI lessons at community events, workshops, and on stage.
 
-- 🔭 Building secure, scalable, **automated cloud platforms** on Azure
-- 🤖 Exploring **AI, agents and copilots**, and making them useful in the real world
-- 🎤 Sharing what I learn from stages, workshops and community events
-- 🎓 Teaching and mentoring people on their cloud and AI journey
-- 💬 Ask me about: **Azure, landing zones, IaC, DevOps, governance, Azure AI, Copilot**
+<table>
+<tr>
+<td width="57%" align="center" valign="top">
+<img src="assets/ELDK.jpeg" alt="Saeid presenting a GitOps demo to a conference audience" width="100%" />
+<br />
+<sub><b>Ideas are better when you share them.</b></sub>
+</td>
+<td width="43%" align="center" valign="top">
+<img src="assets/stage2.jpeg" alt="Saeid speaking on stage with a multi-cloud architecture slide" width="100%" />
+<br />
+<sub><b>From architecture diagrams to real conversations.</b></sub>
+</td>
+</tr>
+</table>
 
----
+### Put me in a room with curious people
 
-## 🎤 On Stage
+**User group? Conference? Team workshop?** Let's talk Azure foundations, automation, cloud governance, or making AI useful in the real world.
 
-I love sharing knowledge with the community. Here are some moments from the stage.
+[![Invite me to speak](https://img.shields.io/badge/LET'S_TALK_ABOUT_YOUR_EVENT-67E8F9?style=for-the-badge&logo=linkedin&logoColor=080E1C)](https://www.linkedin.com/in/saeiddahl/)
 
-<div align="center">
+## 🛠️ The toolkit
 
-| | |
-|:---:|:---:|
-| <img src="assets/ELDK.jpeg" height="320" alt="Saeid presenting a GitOps demo to a packed conference room"/> | <img src="assets/stage2.jpeg" height="320" alt="Saeid on stage in front of a multi-cloud architecture slide"/> |
-| **Event name, City, Year** | **Event name, City, Year** |
+The tools change. The aim stays the same: **build something useful, make it repeatable, and help people understand it.**
 
-</div>
-
-> 📣 **Want me to speak at your event, user group or company?** Reach out via [saeiddahl.com](https://saeiddahl.com) or LinkedIn.
-
-### Topics I speak about
-
-| Topic | What you'll take away |
-|---|---|
-| ☁️ Azure architecture & landing zones | Foundations that scale and stay governed |
-| ⚙️ Automation & Infrastructure as Code | Less clicking, more shipping |
-| 🤖 AI, Copilot & agents on Azure | From demo to production |
-| 🔐 Cloud security & governance | Guardrails without slowing teams down |
-
----
-
-## 🛠️ Tech & Tools
-
-<div align="center">
+**Cloud, identity & AI**
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_AI-7B2FF7?style=for-the-badge&logo=openai&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Code, automate, repeat**
+
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+**Build & ship**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Credentials, with a community mindset
+
+| Recognition | What I bring to it |
+| :--- | :--- |
+| **Microsoft Most Valuable Professional (MVP)** | Sharing knowledge and contributing to the community. |
+| **Microsoft Certified Trainer (MCT) Leader** | Helping people build confidence with cloud and AI. |
+| **Speaker & mentor** | Practical conversations, shared learning, and a reason to keep exploring. |
+
+<details>
+<summary><b>🧭 Pick a conversation starter</b></summary>
+
+<br />
+
+- **“Our Azure environment has grown a bit wild.”** Let's talk landing zones, identity, and governance.
+- **“We keep doing this manually.”** Sounds like an automation opportunity.
+- **“We want to do something useful with AI.”** Start with the problem, then explore the agents and copilots.
+- **“Can you explain this to our team?”** That's what the whiteboard is for.
+- **“Would you speak at our event?”** Tell me about your audience and what they'd love to learn.
+
+</details>
+
+<details>
+<summary><b>📊 Explore the GitHub side</b></summary>
+
+<br />
+
+The code and activity live here on GitHub:
+
+- [Repositories — projects, experiments, and things I'm working on](https://github.com/saeid-adz?tab=repositories)
+- [Profile — contributions and recent public activity](https://github.com/saeid-adz)
+- [Stars — things that caught my attention](https://github.com/saeid-adz?tab=stars)
+
+</details>
+
+## ✨ Let's build something worth sharing
+
+Got an interesting cloud problem, an AI idea, or a community event in mind? **Let's connect.**
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saeid-adz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeid-adz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+[![Website](https://img.shields.io/badge/saeiddahl.com-67E8F9?style=for-the-badge&logo=googlechrome&logoColor=080E1C)](https://saeiddahl.com)
+[![LinkedIn](https://img.shields.io/badge/Saeid_Dahl-B393FF?style=for-the-badge&logo=linkedin&logoColor=080E1C)](https://www.linkedin.com/in/saeiddahl/)
+[![GitHub](https://img.shields.io/badge/@saeid--adz-EDF5FF?style=for-the-badge&logo=github&logoColor=080E1C)](https://github.com/saeid-adz)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saeid-adz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
+<br />
 
-</div>
+**BUILD SOMETHING. LEARN SOMETHING. SHARE SOMETHING.**
 
----
+<sub>Made of cloud curiosity, automation, and community energy. 🇸🇪</sub>
 
-## 🏆 Recognition
-
-- 🥇 **Microsoft Most Valuable Professional (MVP)**
-- 🎓 **Microsoft Certified Trainer (MCT) Leader**
-- 🎤 Community speaker and mentor
-
----
-
-## 📫 Let's connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-saeiddahl.com-0078D4?style=flat-square&logo=googlechrome&logoColor=white)](https://saeiddahl.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeiddahl/)
-
-*"Automate everything, then automate the automation."* ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:0078D4&height=100&section=footer" width="100%" alt="footer"/>
+<sub>[View the still banner](assets/profile/mission-control-still.png)</sub>
 
 </div>
